@@ -1,0 +1,2 @@
+# learning-flink
+主要提供了一些flink api结合的case。重点是为Flink的状态和时间管理api提供直观的介绍，掌握了这些基础知识后，能够更好地理解和运用flink
